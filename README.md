@@ -1,12 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently pursuing BE.IT in UIET,PU
-
 💬 Ask me about Web development related stuff
-
 📫 How to reach me: Instagram - @arshlivz, LinkedIn - @arshlivz
-
 😄 Pronouns: He/Him
-
 ⚡ Fun fact: If I am not coding then I am probably on the fencing piste 🤺 
 
 ## 🌐 Socials:
